@@ -99,7 +99,8 @@ Both notebooks in this Part run Monte Carlo simulations for (A.) a number of ETF
 
 ## Contributors
 
-Nicole Roberts, Scott Marler, Ashok Pandey, Rensley Ramos, Dane Hayes
+Nicole Roberts
+elle.nicole.roberts@gmail.com
 
 ---
 

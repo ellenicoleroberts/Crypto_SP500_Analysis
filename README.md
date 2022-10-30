@@ -1,4 +1,4 @@
-# CRYVESTO ANALYSIS: *DIVERSIFYING WITH CRYPTO*
+# *DIVERSIFYING WITH CRYPTO*
 
 The correlation between stocks and cryptocurrencies has been steadily increasing over the past few years; now both crypto and US equities appear to be moving in tandem. We hypothesize that cryptocurrencies are increasingly becoming exposed to risk factors of the S&P 500. 
 
